@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apprentices of Londons petition presented to the Honourable Court of Parliament. Humbly shewing unto them the manifold abuses of their apprentiship, how the Frenchmen, Dutch, and Walloones, doe deprive them of their ancient customes, and former liberties in their trade. Describing also the bloody proceedings of the papists in Ireland, and to vindicate their masters losses by the Protestants there persecuted. Likewise in devoting the prelates, and lordly bishops, which insult too much over the whole clergie, as the whole kingdome besides. As also speaking of the Jesuites, that were condemned. Subscribed, and presented with the names of above 30000. apprentices.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75529</idno>
+            <idno type="STC">Wing A3586</idno>
+            <idno type="STC">Thomason E180_18</idno>
+            <idno type="STC">ESTC R12607</idno>
+            <idno type="EEBO-CITATION">99859308</idno>
+            <idno type="PROQUEST">99859308</idno>
+            <idno type="VID">111382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111382)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E180[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apprentices of Londons petition presented to the Honourable Court of Parliament. Humbly shewing unto them the manifold abuses of their apprentiship, how the Frenchmen, Dutch, and Walloones, doe deprive them of their ancient customes, and former liberties in their trade. Describing also the bloody proceedings of the papists in Ireland, and to vindicate their masters losses by the Protestants there persecuted. Likewise in devoting the prelates, and lordly bishops, which insult too much over the whole clergie, as the whole kingdome besides. As also speaking of the Jesuites, that were condemned. Subscribed, and presented with the names of above 30000. apprentices.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Greensmith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut map.</note>
+                  <note>Thomason copy imperfect: significant show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apprentices --  England --  London --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111382:1" rendition="simple:additions"/>
+            <p>THE Apprentices of Londons PETITION Preſented to the Honourable Court of Parliament.</p>
+            <p>Humbly ſhewing unto them the manifold Abuſes of their Apprentiſhip, how the <hi>Frenchmen, Dutch,</hi> and <hi>Walloones,</hi> doe deprive them of their ancient Cuſtomes, and former Liberties in their Trade.</p>
+            <p>Deſcribing alſo the Bloody proceedings of the <hi>Papiſts</hi> in IRELAND, and to vindicate their Maſters loſſes by the <hi>Proteſtants</hi> there perſecuted.</p>
+            <p>Likewiſe in devoting the Prelates; and Lordly Biſhops, which inſult too much over the whole Clergie, as the whole Kingdome beſides.</p>
+            <p>As alſo ſpeaking of the <hi>Jeſuites,</hi> that were Condemned.</p>
+            <p>Subſcribed, and preſented with the Names of above 30000. Apprentices.</p>
+            <figure>
+               <figDesc>map of part of the Thames and its tributaries relevant to London trade</figDesc>
+               <head>London.</head>
+            </figure>
+            <p>LONDON, Printed for <hi>John Greenſmith,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition_of_the_Apprentices_of_London">
+            <pb facs="tcp:111382:2"/>
+            <pb facs="tcp:111382:2"/>
+            <head>The Apprentices of LONDONS Petition.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the injuries, and abuſes done unto us are many, and the grievances, and oppreſſions which hereupon we have ſuffered at ſundry times are manifold: wherefore we in the generall, and u<g ref="char:EOLhyphen"/>niverſall name of Us all, doe preſume to preſent our preſſures, and impendent injuries to your Honours, of whom onely we can expect redreſſe, and of none other. For whereas this City hath bin re<g ref="char:EOLhyphen"/>nowned in the gazing eye of the world, and the mag<g ref="char:EOLhyphen"/>nificent enemies thereof applauded (both to the glo<g ref="char:EOLhyphen"/>rious fame of this State, and Kingdome) of all other Neighbour Countries, and Nations: Yet the Rites, and Liberties thereof being ſomewhat detracted, &amp; abuſed, as alſo the Lawes and ancient Cuſtomes thereof being extenuated by ſome malignant, and ill-affected per<g ref="char:EOLhyphen"/>ſons, it now becomes as much deplorable in the ſight of all men: and whereas this City ſhould have been a Patterne of Piety, and goodneſſe (regularly embraced) to the whole Kingdome beſides, it is now (by the means of divers ill-planted members hereof) become an ex<g ref="char:EOLhyphen"/>ample of Schiſmaticall diſturbances, and diſtractions. We therefore implore your Honours withall humili<g ref="char:EOLhyphen"/>ty to reſtore our former Liberties, of which lately we
+<pb facs="tcp:111382:3"/>have been deprived and to regulate in an exact ratifi<g ref="char:EOLhyphen"/>cation the Lawes, and priſtine Statutes of this City to the preſervation of them (of which there is a re<g ref="char:EOLhyphen"/>quiſite neceſſity in theſe perilous and confuſed times) in confirming the ſaid ancient cuſtome hereof.</p>
+            <p>And firſt we beſeech your Honours to take into con<g ref="char:EOLhyphen"/>ſideration the intolerable abuſe of our Apprentiſhip: for where, we by coerion are neceſſarily compelled to ſerve ſeven, or eight yeares at leaſt, before wee can have the immunity and freedome of this City to trade in: Thoſe which are meere Strangers doe ſnatch this Freedome from us, and pull the Trades out of our owne hands, ſo that by this meanes when our times are fully expired, wee doe then begin in a manner to ſuffer a ſecond Apprentiſhip to them, who doe thus domineere over us in our owne Trades.</p>
+            <p>This is the cauſe that ſo many breake every yeare, ſeeing that their Trading is ſtolne out of their hands to the great diſcomfort, and confuſion of us all. More<g ref="char:EOLhyphen"/>over when we are out of our times, and ſhould then be<g ref="char:EOLhyphen"/>gin to trade in the world, we can get neither Houſe, or Shop for our money, in regard that theſe Forraigners, and ſtrangers (as there are many <hi>French, Dutch, Wal<g ref="char:EOLhyphen"/>loones,</hi> &amp;c.) will give any money to ſnatch them from us: and this is the chiefeſt cauſe, that houſes are ſo exceſſive deare in this City, and by this meanes many of us looſe the loſſe of yeares, trade, and time, and are compelled to turne Journeymen. Wherefore we ſole<g ref="char:EOLhyphen"/>ly depend on your Honours favourable, gracious, and auxiliary opitulation, beſeeching you to re-erect that, which lately have been pull'd downe. And notwith<g ref="char:EOLhyphen"/>ſtanding this abuſe: there is a ſecond danger hangs o<g ref="char:EOLhyphen"/>ver, <hi>viz.</hi> the fearefull dangers, perillous plots, and con<g ref="char:EOLhyphen"/>ſpiracies
+<pb facs="tcp:111382:3"/>which have, and are ſtill pretended by the Pa<g ref="char:EOLhyphen"/>piſts againſt us, which cauſeth a promiſcuous muting in this Kingdome. Their exulcerated envy (I confeſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) have been oftentimes kindled in a ſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rke <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but (thankes be to God) their m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lice could never take fire here in <hi>England,</hi> untill now they are come to a full flame in <hi>Ireland,</hi> whoſe Rebellious Actions are ſo in<g ref="char:EOLhyphen"/>humane, that it would draw teares from an adamantine eye, to thinke of their bloody, and Tyrannicall procee<g ref="char:EOLhyphen"/>dings. Wherefore we humbly beſeech your Honours to take their groaning miſery into your Chriſtian, and charitable conſideration, that the flouriſhing roote of Proteſtants be not ſuffered to be fully eradicated to the great diſcomfort of all men in theſe Kingdomes.</p>
+            <p>Moreover we earneſtly deſire your Honours, that you would be pleaſed to ſend ſome ſpeedy ayde, and auxiliary aſſiſtance unto them: for otherwiſe it will be a great detriment and dammage to divers in this City, in reſpect that moſt of your Petitioners Maſters have great ſummes of money, which many of thoſe Prote<g ref="char:EOLhyphen"/>ſtants doe owe unto them. In that regard they will be great looſers thereby, unleſſe they be reſtored unto their former eſtate, which will be a meanes to breake and undoe many in this Cittie, to the great diſcomfort and loſſe of your Petitioners. Therefore we beſeech you to revolve the manifold abuſes, which they have done, and unleſſe you that are the reall Phiſitians of the ſtate (to purge this Kingdome from thoſe Sores that doth contaminate it) doe lay a reſtoratiue plaiſter to thoſe mortall wounds, that are given by the Papiſts, they will ſuddenly canker, and turne to Phlebotomie.</p>
+            <pb facs="tcp:111382:4"/>
+            <p> Alas, 'tis unknowne what danger we are involved in, neither can we receive any comfort in our trade, in re<g ref="char:EOLhyphen"/>ſpect of theſe manifold perils which your Petitioners Maſters are in, both in danger of their eſtates, and feare of their lives.</p>
+            <p>Omit not there fore we intreat you, ſo heavy, and weighty an importance, ſeeing that our neceſſary de<g ref="char:EOLhyphen"/>pendance waites on your Honours, to relieve us. That after ages, and late poſteritie may en-chronicle ſo fa<g ref="char:EOLhyphen"/>mous a deed, to your perpetuall Fame, and the im<g ref="char:EOLhyphen"/>mortall glory of this Kingdome.</p>
+            <p>But that we may conſummate all our greivances, and neceſſities in one bundle, and that you may give your Verdict to each particular of our preſſures in one con<g ref="char:EOLhyphen"/>tract, we will proceed to our third griefe, expecting herein your favourable reflection on us, <hi>viz,</hi> the inſul<g ref="char:EOLhyphen"/>ting Domination of the Lordly Biſhop of <hi>Canterbury</hi> and ſome others, who triumph with too much arrogant inſolencie over us, and their poore Bretheren of the Cleargie, and if pleaſe your honours to looke backe on their miſdemeanors, you may eaſily conceive how many great and unſufferable crimes they ſtand guiltie of, wherefore on bended knees (expreſſing the humble allegiance of our hearts) we your Petitioners intreate your Honours with a favorable aſpect to view the juſt deſires of this oppreſſed <hi>Jſarel,</hi> let not we beſeech you theſe <hi>Abſoloms</hi> that in the time they had Pattents for their perſecution) made it no ſcruple to perſecute their owne fathers, let them not linger protract not time, but let not their puniſhments be any longer deferd, for they haue oppreſſed the whole Kingdome, they were the firſt cauſe of that Commotion in <hi>Scot<g ref="char:EOLhyphen"/>land.</hi> But now (thankes be to God) concluded
+<pb facs="tcp:111382:4"/>in an exact peace, and univerſall Pacification: Yea they have been generally acknowledged to have beene the chiefe, and ſole cauſe of this Rebellious inſurrecti<g ref="char:EOLhyphen"/>on in <hi>Jreland,</hi> to the Epidemicall danger of both King<g ref="char:EOLhyphen"/>domes, and the particuler griefe of each Subiect. Your Petitioners therefore, bearing the quotidian cryes of the people in what lamentable deploration they ex<g ref="char:EOLhyphen"/>claime daily againſt theſe Lordly Biſhops and Arch<g ref="char:EOLhyphen"/>biſhops, doe beſeech you to revolve their inſultations, and what generall danger they have brought into the State, and wofull perils to the whole Commons; and doe therefore requeſt your Honours to clip off ſome of their illimited power, and extended authority. And that they would be devoted out of the houſe of Peeres, for they hinder and procraſtinate the eſtabliſhment of Religion, which have beene a long time expected to the univerſall griefe of this whole Nation.</p>
+            <p>Moreover, we interpoſe with them the Romiſh Ie<g ref="char:EOLhyphen"/>ſuites, that ſting the Common wealth with their ſe<g ref="char:EOLhyphen"/>ducing allurements to the extenuation of our Prote<g ref="char:EOLhyphen"/>ſtant Religion, and the advancement of the Court of <hi>Rome:</hi> wherefore in reſpect that the Rebels in <hi>Ireland</hi> being their Confederates, doe ſo perſecute the Pro<g ref="char:EOLhyphen"/>teſtants there without any humane partiality, we be<g ref="char:EOLhyphen"/>ſeech you not to be too clement unto them, in ſparing them, eſpecially when the ſentence of the Law is gone upon them.</p>
+            <p>We beſeech you therefore favourably to conſider of our Petition, and we will forever labour with our full force, and power to defend your Honours to the vttermoſt of our might. Thus we humbly deſire your grave and judicious Counſels herein, hoping your
+<pb facs="tcp:111382:5"/>generall aſcents, and conſents hereunto; which will be great ſervice done to God, great fame to the Kingdome, and eſpecially great credit to your Honours.</p>
+            <closer>And wee ſhall be bound to pray, &amp;c.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
